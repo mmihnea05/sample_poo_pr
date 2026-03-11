@@ -3,7 +3,7 @@ class Users;
 class IRoom;
 
 typedef enum status {
-	cancelled, pending, confirmed, finished
+	cancelled, confirmed, finished
 };
 
 class Accomodation{
